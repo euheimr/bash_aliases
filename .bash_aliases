@@ -1,0 +1,1 @@
+/home/valseria/home/valseria/.bash_aliases
